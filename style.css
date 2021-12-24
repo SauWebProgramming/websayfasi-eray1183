@@ -8,3 +8,22 @@
     height: 500px;
 }
 
+
+footer{
+    background-color: #191919;
+    color:#fff;
+    padding:15px 0;
+}
+
+
+footer li{
+    list-style: none;
+    display: inline;
+    
+}
+
+footer a{
+    text-decoration: none;
+    color:white;
+    padding: 5px;
+}
